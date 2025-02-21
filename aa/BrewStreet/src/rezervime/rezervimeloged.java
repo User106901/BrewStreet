@@ -4,7 +4,7 @@ import javax.swing.*;
 
 import com.toedter.calendar.JDateChooser;
 
-import Maini.maini;
+
 
 import java.awt.*;
 import java.awt.event.*;
@@ -152,7 +152,7 @@ public class rezervimeloged {
         panel.add(btnNewButton_1_1);
         
 
-        
+       
     }
     
         public JPanel getPanel() {
